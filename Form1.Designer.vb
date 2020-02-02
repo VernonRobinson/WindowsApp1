@@ -43,7 +43,7 @@ Partial Class frmMain
         Me.ClientSize = New System.Drawing.Size(800, 450)
         Me.Controls.Add(Me.Label1)
         Me.Name = "frmMain"
-        Me.Text = "Declassified Modifications"
+        Me.Text = "Super Secret Modifications"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
